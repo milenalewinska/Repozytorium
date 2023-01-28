@@ -1,0 +1,26 @@
+PRZYPADEK TESTOWY 
+
+1. Identyfikator: PT1.1.1
+2. Nazwa: Logowanie do aplikacji Trello
+3. Opis: 
+Celem testu jest zalogowanie się do aplikacji Trello.
+
+4. Warunki wstępne:
+Konto użytkownika musi być stworzone i aktywne.
+
+5. Opis kroków do wykonania:
+⦁	Wejdź na stronę Trello.com
+⦁	Kliknij w przycisk "Log In" znajdujący się po prawej stronie.
+⦁	W pole "Podaj adres e-mail" wprowadź poprawny e-mail użytkownika.
+⦁	Kliknij przycisk "Kontynuuj".
+⦁	W pole "Wprowadź hasło" wprowadź poprawne hasło użytkownika.
+⦁	Kliknij przycisk "Zaloguj się".
+
+6. Oczekiwany rezultat:
+Poprawne zalogowanie do strony Trello.com.
+
+7. Warunek końcowy:
+Nastąpiło przekierowanie na stronę główną.
+
+8. Autor: Milena Lewińska
+
